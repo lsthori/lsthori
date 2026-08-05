@@ -3,7 +3,7 @@
 **Final-year Computer Science student · Software Engineer · Builder of data-driven systems**
 
 I'm a self-driven developer who loves turning ideas into working software. Most of what
-I build lives outside the classroom — from an AI system that protects South Africans from
+I build lives outside the classroom, from an AI system that protects South Africans from
 scams, to automated trading bots, to full mobile apps. If it ingests data and does
 something useful with it, I want to build it.
 
