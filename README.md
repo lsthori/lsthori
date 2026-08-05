@@ -13,9 +13,9 @@ something useful with it, I want to build it.
 - **Into:** data-driven systems, AI/NLP, clean modular architecture
 
 ### 🚀 Featured projects
-- **Temogo AI** — AI-powered scam detection for South African users (Python, NLP, OpenAI API)
-- **Gauta** — automated trading system with modular strategy/risk architecture (Python, MT5)
-- **CleanGallery** — Android app that clears duplicate, blurry & document photos (Kotlin, ML Kit)
+- **Temogo AI**: AI-powered scam detection for South African users (Python, NLP, OpenAI API)
+- **Gauta**: automated trading system with modular strategy/risk architecture (Python, MT5)
+- **CleanGallery**: Android app that clears duplicate, blurry & document photos (Kotlin, ML Kit)
 
 ### 📫 Reach me
 - LinkedIn: [linkedin](https://www.linkedin.com/in/lethaboselahle/)
