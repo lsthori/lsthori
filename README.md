@@ -1,4 +1,4 @@
-# Hi, I'm Lethabo 👋
+# What's good ... I'm Lethabo
 
 **Final-year Computer Science student · Software Engineer · Builder of data-driven systems**
 
